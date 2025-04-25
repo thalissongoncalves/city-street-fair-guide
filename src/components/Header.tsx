@@ -1,8 +1,11 @@
+import SubTitle from "./SubTitle";
+import Title from "./Title";
+
 function Header() {
     return(
         <>
-            <h1>Feiras Livres da Cidade</h1>
-            <h2>Conheça as feiras, dias, horários e produtos oferecidos.</h2>
+            <Title headline="Feiras Livres da Cidade" />
+            <SubTitle headline="Conheça as feiras, dias, horários e produtos oferecidos." />
         </>
     )
 }
