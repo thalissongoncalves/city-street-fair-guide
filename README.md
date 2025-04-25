@@ -19,16 +19,21 @@ Um projeto desenvolvido com React que tem como objetivo ajudar moradores a encon
 ## 📂 Estrutura
 
 src/ <br/>
+├── assets/ <br/>
+│ ├── feira-da-benedito-calixto.jpg <br/>
+│ ├── feira-de-antiguidades-do-bixiga.webp <br/>
+│ ├── feira-noturna-da-vila-madalena.jpg <br/>
+│ ├── feira-organica-do-parque-da-agua-branca.jpg <br/>
 ├── components/ <br/>
 │ ├── FairSection.tsx <br/>
 │ ├── Header.tsx <br/>
-│ ├── FeiraCard.tsx <br/>
+│ ├── FairCard.tsx <br/>
 │ ├── ProductCard.tsx <br/>
 │ ├── SubTitle.tsx <br/>
 │ └── Title.tsx <br/>
 ├── data/ <br/>
-│ ├── feiras.ts <br/>
-│ └── produtos.ts <br/>
+│ ├── fairs.ts <br/>
+│ └── products.ts <br/>
 ├── App.tsx <br/>
 └── index.ts <br/>
 
