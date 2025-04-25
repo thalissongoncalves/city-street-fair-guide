@@ -16,19 +16,6 @@ Um projeto desenvolvido com React que tem como objetivo ajudar moradores a encon
 - CSS/Styled Components ou TailwindCSS
 - Vite ou Create React App
 
-## 📂 Estrutura
-
-src/ 
-├── components/ 
-│ ├── Header.jsx 
-│ ├── FeiraCard.jsx 
-│ └── ProductCard.jsx 
-├── data/ 
-│ ├── feiras.js 
-│ └── produtos.js 
-├── App.jsx 
-└── index.js
-
 ## 📷 Imagens
 
 > *()*
