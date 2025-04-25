@@ -20,10 +20,14 @@ Um projeto desenvolvido com React que tem como objetivo ajudar moradores a encon
 
 src/ <br/>
 ├── assets/ <br/>
+│ ├── alface.jpg <br/>
 │ ├── feira-da-benedito-calixto.jpg <br/>
 │ ├── feira-de-antiguidades-do-bixiga.webp <br/>
 │ ├── feira-noturna-da-vila-madalena.jpg <br/>
 │ ├── feira-organica-do-parque-da-agua-branca.jpg <br/>
+│ ├── mel.webp <br/>
+│ ├── queijo.webp <br/>
+│ └── tomate.jpg <br/>
 ├── components/ <br/>
 │ ├── FairCard.tsx <br/>
 │ ├── FairSection.tsx <br/>
