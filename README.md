@@ -25,10 +25,11 @@ src/ <br/>
 │ ├── feira-noturna-da-vila-madalena.jpg <br/>
 │ ├── feira-organica-do-parque-da-agua-branca.jpg <br/>
 ├── components/ <br/>
+│ ├── FairCard.tsx <br/>
 │ ├── FairSection.tsx <br/>
 │ ├── Header.tsx <br/>
-│ ├── FairCard.tsx <br/>
 │ ├── ProductCard.tsx <br/>
+│ ├── ProductSection.tsx <br/>
 │ ├── SubTitle.tsx <br/>
 │ └── Title.tsx <br/>
 ├── data/ <br/>
