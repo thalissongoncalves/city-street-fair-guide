@@ -20,14 +20,17 @@ Um projeto desenvolvido com React que tem como objetivo ajudar moradores a encon
 
 src/ <br/>
 ├── components/ <br/>
-│ ├── Header.jsx <br/>
-│ ├── FeiraCard.jsx <br/>
-│ └── ProductCard.jsx <br/>
+│ ├── FairSection.tsx <br/>
+│ ├── Header.tsx <br/>
+│ ├── FeiraCard.tsx <br/>
+│ ├── ProductCard.tsx <br/>
+│ ├── SubTitle.tsx <br/>
+│ └── Title.tsx <br/>
 ├── data/ <br/>
-│ ├── feiras.js <br/>
-│ └── produtos.js <br/>
-├── App.jsx <br/>
-└── index.js<br/>
+│ ├── feiras.ts <br/>
+│ └── produtos.ts <br/>
+├── App.tsx <br/>
+└── index.ts <br/>
 
 ## 📷 Imagens
 
