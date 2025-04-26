@@ -1,3 +1,5 @@
+import "./styles/FairSection.css"
+
 interface IFairCard {
     name: string
     location: string
@@ -8,12 +10,13 @@ interface IFairCard {
 
 function FairCard({ name, location, day, hours, image }: IFairCard) {
     return(
-        <>
+        <div className="fair-card">
             <img src={image} alt={name} />
-            <p>{name}</p>
-            <p>{day} | {hours}</p>
-            <p>{location}</p>
-        </>
+            <h3>{name}</h3>
+            <p>{day}</p>
+            <p>{hours}</p>
+            <p className="location">{location}</p>
+        </div>
     )
 }
 

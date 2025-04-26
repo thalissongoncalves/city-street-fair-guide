@@ -7,12 +7,12 @@ interface IProductCard {
 
 function ProductCard({productName, category, originFair, image}: IProductCard) {
     return(
-        <>
+        <div className="product-card">
             <img src={image} alt={productName} />
-            <p>{productName}</p>
-            <p>{category}</p>
-            <p>{originFair}</p>
-        </>
+            <h3>{productName}</h3>
+            <p className="tag">{category}</p >
+            <p className="origin">{originFair}</p>
+        </div>
     )
 }
 

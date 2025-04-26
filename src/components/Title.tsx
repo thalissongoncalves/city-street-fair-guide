@@ -1,10 +1,11 @@
 interface ITitle {
     headline: string
+    className: string
 }
 
-function Title({headline}: ITitle) {
+function Title({headline, className}: ITitle) {
     return(
-        <h1>{headline}</h1>
+        <h1 className={className}>{headline}</h1>
     )
 }
 

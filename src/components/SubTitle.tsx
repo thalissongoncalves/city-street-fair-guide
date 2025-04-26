@@ -1,10 +1,11 @@
 interface ISubTitle {
     headline: string
+    className: string
 }
 
-function SubTitle({headline}: ISubTitle) {
+function SubTitle({headline, className}: ISubTitle) {
     return(
-        <h2>{headline}</h2>
+        <h2 className={className}>{headline}</h2>
     )
 }
 

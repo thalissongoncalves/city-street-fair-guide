@@ -12,7 +12,7 @@ Um projeto desenvolvido com React que tem como objetivo ajudar moradores a encon
 ## 🛠️ Tecnologias
 
 - React
-- TypeScript (opcional)
+- TypeScript
 - CSS/Styled Components ou TailwindCSS
 - Vite ou Create React App
 

@@ -1,0 +1,51 @@
+.section-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 2rem 1rem 1rem;
+    color: #1F3D2B;
+    text-align: center;
+}
+  
+.fair-cards {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    overflow-x: auto;
+    padding: 1rem;
+}
+  
+.fair-card {
+    width: 180px;
+    background: white;
+    border-radius: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    text-align: center;
+}
+  
+.fair-card img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+  
+.fair-card h3 {
+    font-size: 1rem;
+    margin: 0.5rem;
+}
+  
+.fair-card p {
+    color: #6B7280;
+    font-size: 0.875rem;
+    margin: 0 0.5rem;
+}
+  
+.fair-card .location {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    margin: 0.5rem;
+    font-size: 0.75rem;
+    color: #9CA3AF;
+}

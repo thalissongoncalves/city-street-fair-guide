@@ -1,12 +1,13 @@
 import SubTitle from "./SubTitle";
 import Title from "./Title";
+import "./styles/Header.css"
 
 function Header() {
     return(
-        <>
-            <Title headline="Feiras Livres da Cidade" />
-            <SubTitle headline="Conheça as feiras, dias, horários e produtos oferecidos." />
-        </>
+        <header>
+            <Title className="headerTitle" headline="Feiras Livres da Cidade" />
+            <SubTitle className="headerSubTitle" headline="Conheça as feiras, dias, horários e produtos oferecidos." />
+        </header>
     )
 }
 
