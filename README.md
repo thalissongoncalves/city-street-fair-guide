@@ -35,8 +35,8 @@ src/ <br/>
 
 ## 📷 Imagens
 
-> *(/desktop.png)*
-> *(/mobile.png)*
+![Versão Desktop](./desktop.png)
+![Versão Mobile](./mobile.png)
 
 ## 📌 Sobre o projeto
 
