@@ -13,8 +13,8 @@ Um projeto desenvolvido com React que tem como objetivo ajudar moradores a encon
 
 - React
 - TypeScript
-- CSS/Styled Components ou TailwindCSS
-- Vite ou Create React App
+- CSS
+- Vite
 
 ## 📂 Estrutura
 
