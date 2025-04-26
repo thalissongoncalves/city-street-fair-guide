@@ -36,7 +36,6 @@ src/ <br/>
 ## 📷 Imagens
 
 ![Versão Desktop](./desktop.png)
-![Versão Mobile](./mobile.png)
 
 ## 📌 Sobre o projeto
 
